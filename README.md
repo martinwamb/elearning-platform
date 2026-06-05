@@ -1,6 +1,5 @@
 Here's the complete, runnable code for completing the initial commit in the "Elearning Platform" project:
 
-```bash
 # Step 1: Create repository on GitHub
 gh repo create martinwamb/elearning-platform --public
 
